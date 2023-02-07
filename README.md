@@ -1,4 +1,4 @@
-Initial PoC for using triton kernels in a Rust code base.
+# Initial PoC for using triton kernels in a Rust code base.
 
 [OpenAI’s Triton](https://github.com/openai/triton) is a tool for creating GPU kernels using Python. Triton kernels can be written in Python and executed using a JIT compiler within the script. The tool is currently being developed to include an Ahead of Time compiler, which will convert Triton kernels into C source code.
 
