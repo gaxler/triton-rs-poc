@@ -1,0 +1,5 @@
+[env]
+# DRY_RUN=""
+C_SOURCES_TARGET="csrc" 
+TT_PYTHON="python"
+CUDA_PATH="/lib/cuda"
